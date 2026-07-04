@@ -5,8 +5,7 @@
 **Building intelligent systems with ML, CV, NLP & DL**
 
 [![GitHub followers](https://img.shields.io/github/followers/qays1?style=social)](https://github.com/qays1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qays)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/qays)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/qays](https://www.linkedin.com/in/qays-abu-mahfouz/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qaysq28@gmail.com)
 
 </div>
