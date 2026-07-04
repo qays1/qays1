@@ -1,4 +1,4 @@
-# 👋 Qays-Am | AI Engineer & ML Specialist
+# 👋 Qays Abu Mahfouz | AI Engineer & ML Specialist
 
 <div align="center">
 
